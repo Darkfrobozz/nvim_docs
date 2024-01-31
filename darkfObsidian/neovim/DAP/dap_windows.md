@@ -1,0 +1,1 @@
+DAP has a variety of different windows to visualize the debug process.
